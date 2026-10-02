@@ -1,0 +1,20 @@
+PHOTO SOURCES · hs-079-montez Joseph Montez Construction (Wave 16 2026-10-02 PT)
+All CC0 / public domain (Wikimedia Commons CC0/PD, Flickr CC0/PDM, rawpixel CC0, StockSnap CC0) or prior verified Wave library.
+New Wave 16 files: see builds/_assets_dl/wave16/SOURCES.tsv and its sources log for source URLs and terms.
+Every file opened and checked for trade fit and job-label fit. No face is used or captioned as the owner or crew.
+Sample B/A photos are labeled on page as stock images typical of this kind of job.
+
+hero-site.jpg <- wave16/build7-house-scaffold.jpg : House under construction with scaffolding (rawpixel CC0 1.0 https://www.rawpixel.com/image/6075111/house-under-construction-the-netherlands)
+services-trade.jpg <- wave16/build7-trusses-wide.jpg : Roof trusses on a site, wide view (wikimedia CC0 1.0 https://commons.wikimedia.org/wiki/File:Post_frame_building_framing_03.jpg)
+people-crew.jpg <- wave16/build7-roof-scaffold.jpg : Roof work under way with scaffolding (rawpixel CC0 1.0 https://www.rawpixel.com/image/6075102/house-under-construction-the-netherlands)
+people-marek.jpg <- wave16/build7-joists-boards.jpg : Joists and new boards, close-up (flickr CC0 1.0 https://www.flickr.com/photos/71401718@N00/6014697221)
+people-tom.jpg <- wave16/build7-nails-pile.jpg : Pile of framing nails, close-up (stocksnap CC0 1.0 https://stocksnap.io/photo/macro-nails-LTPHHHGHBH)
+coverage-house.jpg <- wave16/build7-street-homes.jpg : Street of newer homes with palms (stocksnap CC0 1.0 https://stocksnap.io/photo/suburban-street-JDQIGEGDBB)
+build7-trusses-site.jpg <- wave16/build7-trusses-site.jpg : Roof trusses laid out on a site (wikimedia CC0 1.0 https://commons.wikimedia.org/wiki/File:Post_frame_building_framing_04.jpg)
+build7-house-gable.jpg <- wave16/build7-house-gable.jpg : Finished house with a front gable and a lawn (rawpixel CC0 1.0 https://www.rawpixel.com/image/6041676/photo-image-public-domain-house-home)
+build7-studs-bw.jpg <- wave16/build7-studs-bw.jpg : Interior stud-wall framing, black and white (wikimedia Public domain https://commons.wikimedia.org/wiki/File:Interior_view_of_restroom_area,_showing_the_interior_stud-wall_framing_-_Bend_Railroad_Depot,_1160_Northeast_Divion_Street_(At_foot_of_Kearny_Street),_Bend,_Deschutes_County,_OR_HABS_ORE,9-BEND,2-27.tif)
+build7-room-sofa.jpg <- wave16/build7-room-sofa.jpg : Finished living room with smooth walls and wood floors (stocksnap CC0 1.0 https://stocksnap.io/photo/house-interior-ZZ1IHRDEML)
+build7-wall-studs.jpg <- wave16/build7-wall-studs.jpg : Interior studs and sheathing, before the walls are closed in (wikimedia Public domain https://commons.wikimedia.org/wiki/File:Mechanical_Room_in_North_Residence_(5038667581).jpg)
+build7-room-loft.jpg <- wave16/build7-room-loft.jpg : Finished open room with a dining table and new floors (stocksnap CC0 1.0 https://stocksnap.io/photo/house-interior-FY7AZE0Z59)
+
+Note: General contractor: wave16 set (build7), no person in any photo; generic general building only (framing to finish), because the packet has the license class only. The generic platform service tags and the old permit in the packet are NOT used. CEO call: no personal first name anywhere; the first name appears only inside the business name (wordmark, title, footer), and the page says 'the owner'. The packet's no-DNS names are NOT used or linked, and no domain appears on the page. Another lead this wave is in the same town (different owner, no link): no photo is shared between the two pages.
